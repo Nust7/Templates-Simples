@@ -1,0 +1,72 @@
+body {
+    background-color: hsl(233, 47%, 7%);
+}
+.principal {
+    margin: auto;
+    margin-top: 220px;
+    width: 1000px;
+    height: 364px;
+    background-color: hsl(244, 38%, 16%);
+    border-top-left-radius: 5px ;
+    border-bottom-left-radius: 5px ;
+
+}
+
+img {
+    filter: opacity(0.6) drop-shadow(0 0 0 #aa5cdb) brightness(0.7) saturate(230%) contrast(140%) grayscale(0%) ;   
+    width: 441px;
+    margin-left: 39px;
+}
+
+.conteudo{
+    width: 520px;
+    height: 370px;
+    float: left;
+}
+
+.conteudo h1 {
+    width: 400px;
+    font-size: 32px;
+    margin-left: 60px;
+    color: white;
+    font-family: 'Inter', sans-serif;
+    padding-top: 20px;
+}
+
+.conteudo p{
+    margin-left: 60px;
+    color: hsla(0, 0%, 100%, 0.75);
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;
+    width: 360px;
+    opacity: 60%;
+    font-weight: 400;
+    padding-top: 5px;
+    line-height: 18px;
+
+}
+
+.parametro p {
+    color: white;
+    display: inline-block;
+    width: 45px;
+    opacity: 100%;
+    margin-top: 40px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.fudinho p {
+    display: inline-block;
+    width: 50px;
+    font-size: 10px;
+    font-family: 'Lexend Deca', sans-serif;
+    margin-left: 57px;
+    margin-top: 0px;
+    font-weight: 400;
+    letter-spacing: 0.1em;
+
+}

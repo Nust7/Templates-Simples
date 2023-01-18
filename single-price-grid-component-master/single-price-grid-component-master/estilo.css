@@ -1,0 +1,148 @@
+body {
+    background-color: #ccc;
+}
+
+.principal {
+    width: 646px;
+    margin: auto;
+    margin-top: 270px;
+    background-color: white;
+    border-radius: 15px;
+    
+
+}
+
+.box1 {
+    width: 625px;
+    
+}
+
+.box1 h1{
+    font-size: 23px;
+    padding-top: 35px;
+    margin-left: 35px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    color: hsl(179, 62%, 43%);
+    font-family: 'Karla', sans-serif;
+}
+
+.box1 h2{
+    font-size: 18px;
+    margin-left: 35px;
+    margin-top: 10px;
+    color: hsl(71, 73%, 54%);
+    font-family: 'Karla', sans-serif;
+}
+
+.box1 p {
+    margin-bottom: 4px;
+    opacity: 50%;
+    font-size: 15px;
+    font-family: 'Karla', sans-serif;
+    margin-left: 35px;
+    padding-top: 0.1em;
+    margin-top: 0.1em;
+}
+
+.box2 {
+    
+    display: inline-block;
+    width: 335px;
+    height:250px;
+    font-size: 15px;
+    background-color: hsl(179, 62%, 43%);
+    border-bottom-left-radius: 9px;
+}
+
+.box2 h1{
+    font-size: 17px;
+    padding-top: 10px;
+    margin-left: 40px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    font-family: 'Karla', sans-serif;
+    color: white;
+    width: 300px;
+    opacity: 90%;
+    font-weight: 500;
+}
+
+h3 {
+    font-size: 30px;
+    margin-left: 40px;
+    display: inline-block;
+    color: white;
+    padding-top: 0px;
+    margin-top: 0px;
+    font-family: 'Karla', sans-serif;
+    font-weight: 400;
+    margin-bottom: 0px;
+}
+.riscado {
+    display: inline-block;
+    font-size: 15px;
+    margin-left: 19px;
+    color: hsl(204, 43%, 93%);
+    opacity: 55%;
+    font-family: 'Karla', sans-serif;
+    margin-bottom: 15px;
+}   
+
+.texto2 {
+    margin-left: 40px;
+    font-size: 16px;
+    padding-top: 0px;
+    margin-top: 0px;
+    font-family: 'Karla', sans-serif;
+    color: hsl(204, 43%, 93%);
+    opacity: 90%;
+}
+
+.butaum {
+    border: 2px solid hsl(71, 73%, 54%);
+    text-align: center;
+    border-radius: 5px;
+    width: 235px;
+    height: 22px;
+    margin-left: 40px;
+    background-color: hsl(71, 73%, 54%);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+a {
+    color: white;
+    font-size: 16px;
+    text-decoration: none;
+    font-family: 'Karla', sans-serif;
+}
+
+.box3 {
+    background-color: hsl(179, 36%, 57%);
+    display: inline-block;
+    float: right;
+    height: 250px;
+    width: 311px;
+    border-bottom-right-radius:5px ;
+}
+
+.box3 h1 {
+    font-size: 18px;
+    font-weight: 550;
+    padding-top: 10px;
+    margin-left: 40px;
+    margin-top: 30px;
+    color: white;
+    font-family: 'Karla', sans-serif;
+}
+
+.box3 p {
+    margin-left: 40px;
+    width: 185px;
+    font-size: 16px;
+    font-weight: 350;
+    color: hsl(204, 43%, 93%);
+    opacity: 90%;
+    font-family: 'Karla', sans-serif;
+}

@@ -1,0 +1,71 @@
+body {
+    background-color: hsl(257, 40%, 49%);
+    background-image: url(./huddle-landing-page-with-single-introductory-section-master/images/bg-desktop.svg);
+    background-repeat: no-repeat;
+    background-position-y: auto;
+    background-size: 1700px;
+    font-family: 'Open-Sans', sans-serif;
+    font-weight: 400;
+}
+
+.loguinho {
+    margin-top: 50px;
+    margin-left: 80px;
+}
+
+.imagemmeio img{
+    width: 900px;
+    float: left;
+    margin-top: 130px;
+    margin-left: 80px;
+    
+}
+
+.titulo h1 {
+    width: 550px;
+    display: inline-block;
+    margin-top: 180px;
+    margin-left: 100px;
+    font-size: 45px;
+    color: white;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+}
+
+.texto p{
+    width: 540px;
+    display: inline-block;
+    margin-left: 100px;
+    font-size: 20px;
+    color: white;
+    opacity: 80%;
+}
+
+footer img {
+    width: 100px;
+}
+
+.botaum a{
+
+    margin-left: 100px;
+    font-size: 20px;
+    font-family: 'Open-Sans', sans-serif;    
+    display: inline-block;
+    margin-top: 10px;
+    background-color: white;
+    width: 220px;
+    text-align: center;
+    border-radius: 5000px;
+    height: 40px;
+    padding-top: 15px;
+    text-decoration: none;
+    
+}
+
+
+a:hover { 
+    background-color: #000000; 
+    transition: 0.2s;
+    opacity: 0.7;
+
+} 
